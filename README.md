@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm Shreeniwas Kolagal. Here’s a bit about me:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=<ShreeniwasKolagal>&theme=highcontrast&hide_border=false)](https://git.io/streak-stats)
 
 ### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdilMulimani&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShreeniwasKolagal&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 📫 Get in Touch!
 - Email: shreeniwaskolagal@gmail.com, kolagalshreeniwas@gmail.com
